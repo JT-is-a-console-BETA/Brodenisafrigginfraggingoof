@@ -10,7 +10,9 @@ using namespace std;
                                                      
 int main()
 {
-	
+	int name;
+	cout >> "Enter employee name.\n";
+	cin << name;
 
 
 
